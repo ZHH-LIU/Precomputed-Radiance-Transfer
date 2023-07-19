@@ -1,0 +1,4 @@
+﻿E:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(LearnOpenGL.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+LINK : warning LNK4075: 忽略“/INCREMENTAL”(由于“/FORCE”规范)
+LINK : fatal error LNK1181: 无法打开输入文件“glfw3.lib”
+E:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(1096,5): error MSB6006: “link.exe”已退出，代码为 1181。
